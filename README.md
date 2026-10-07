@@ -1,0 +1,2 @@
+# premium-cordwood-wall-001-cordwood-masonry-log-end-mor
+Cordwood masonry projects fail when you can't track log end placement, mortar ratios, and craft iterations in one place. The Cordwood Masonry &amp; Log End Mortar Craft Lab solves this by giving you a complete Notion workspace to document every detail of your build.  This template eliminates guesswork by centralizing log selection, end-grain positionin
